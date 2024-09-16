@@ -3,7 +3,7 @@
 Python-based tool for masking phishing links to look legitimate
 
 ```sh
-https://github.com/cybermaxton/PhishLink
+git clone https://github.com/cybermaxton/PhishLink
 ```
 
 **DISCLAIMER**
