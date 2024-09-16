@@ -2,6 +2,10 @@
 
 Python-based tool for masking phishing links to look legitimate
 
+```sh
+https://github.com/cybermaxton/PhishLink
+```
+
 **DISCLAIMER**
 
 This tool, **Phish Link**, is created using Python and is intended solely for educational purposes. The primary goal of this tool is to demonstrate the mechanics of URL manipulation and to foster a better understanding of phishing techniques in a controlled and ethical environment.
